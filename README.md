@@ -44,12 +44,11 @@ A custom dataset containing 15 sentences:
 
 ---
 
-## 📌 Flow Diagram
+
 ## Flow Diagram
 
-   ┌────────────────────────┐
-   │      User Input        │
-@@ -82,7 +82,7 @@ All sentences are manually labeled.
+  ┌────────────────────────┐ │ User Input │ │ (Sentence/Statement) │ └────────────┬───────────┘ │ ▼ ┌────────────────────────┐ │ Text Preprocessing │ │ - Lowercasing │ │ - Tokenization │ └────────────┬───────────┘ │ ▼ ┌────────────────────────┐ │ Feature Extraction │ │ CountVectorizer │ │ (Bag of Words Model) │ └────────────┬───────────┘ │ ▼ ┌─────────────────────────┐ │ ML Model Training │ │ Multinomial Naive Bayes │ └────────────┬────────────┘ │ ▼ ┌─────────────────────────┐ │ Prediction │ │ - Sentiment Label │ │ - Class Probabilities │ └────────────┬────────────┘ │ ▼ ┌──────────────────────────┐ │ Output │ │ Positive/Negative/Neutral│ │ + Probabilities │ └──────────────────────────┘
+
 
 ---
 
