@@ -75,6 +75,9 @@ Predicted Sentiment: positive Class probabilities: negative : 0.05 neutral  : 0.
 
 pip install scikit-learn
 
+### Run the script
+
+python sentiment_analyzer.py
 
 
 ---
@@ -82,10 +85,9 @@ pip install scikit-learn
 
 ## File Structure
 
-ai-sentiment-analyzer/ │ 
-                       ├── sentiment_analyzer.ipynb 
+ai-sentiment-analyzer/ │ ├── sentiment_analyzer.ipynb ├── sentiment_analyzer.py ├── requirements.txt └── README.md
 
-                       └── README.md
+                     
 
 ---
 ## Screenshots
