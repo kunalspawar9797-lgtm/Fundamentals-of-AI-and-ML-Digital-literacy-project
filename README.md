@@ -27,7 +27,6 @@ This improved version includes:
 • Uses **CountVectorizer (Bag of Words)**  
 • Uses **Multinomial Naive Bayes**  
 • Displays probabilities for all classes
-
 • Evaluates accuracy on a small test dataset
 
 • Easy, understandable logic for viva and external exam
