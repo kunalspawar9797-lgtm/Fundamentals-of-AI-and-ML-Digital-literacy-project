@@ -21,12 +21,14 @@ This improved version includes:
 
 ---
 
-## 📌 Features (Updated)
+
 ## Features (Updated)
-✔️ Machine learning–based sentiment classification  
+1) Machine learning–based sentiment classification  
 ✔️ Uses **CountVectorizer (Bag of Words)**  
 ✔️ Uses **Multinomial Naive Bayes**  
-@@ -28,7 +28,7 @@ This improved version includes:
+    Displays probabilities for all classes
+✔️ Evaluates accuracy on a small test dataset
+✔️ Easy, understandable logic for viva and external exam
 
 ---
 
