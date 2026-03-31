@@ -4,6 +4,9 @@
 ## Overview
 This project is a medium-level **machine learning sentiment analyzer** made for the **Fundamentals of AI** practical.  
 It classifies sentences into three categories:
+Positive
+Negative
+Neutral
 
 
 
