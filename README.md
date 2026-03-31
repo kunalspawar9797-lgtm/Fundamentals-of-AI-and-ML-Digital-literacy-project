@@ -11,6 +11,13 @@ It classifies sentences into three categories:
 
 This improved version includes:
 
+1) Model accuracy calculation
+2) Probability scores for each class
+3) Loop-based user input
+4) Flowchart and architecture diagram
+5) Clean Jupyter Notebook implementation
+
+
 
 ---
 
