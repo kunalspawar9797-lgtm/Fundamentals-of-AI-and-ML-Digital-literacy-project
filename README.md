@@ -9,6 +9,8 @@ It classifies sentences into three categories:
 3) Neutral
 
 
+This improved version includes:
+
 
 ---
 
