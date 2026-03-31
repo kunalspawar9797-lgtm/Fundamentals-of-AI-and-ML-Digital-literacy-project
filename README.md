@@ -56,8 +56,6 @@ A custom dataset containing 15 sentences:
 ## Model Accuracy
 A small test dataset was used to check accuracy:
 
-A small test dataset was used to check accuracy:
-
 Model accuracy on test set: XX.XX % True labels: [...] Predicted labels: [...]
 
 ---
@@ -74,6 +72,8 @@ Predicted Sentiment: positive Class probabilities: negative : 0.05 neutral  : 0.
 ##  How to Run
 
 ### Install library
+
+pip install scikit-learn
 
 
 
