@@ -100,4 +100,5 @@ ai-sentiment-analyzer/ │ ├── sentiment_analyzer.ipynb ├── sentimen
 ## Author
 **Kunal Pawar**  
 Program: B.Tech CSE Core
-# Course: Fundamentals of AI ML
+
+Course: Fundamentals of AI ML
