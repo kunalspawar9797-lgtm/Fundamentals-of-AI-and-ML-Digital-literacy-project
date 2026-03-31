@@ -52,16 +52,17 @@ A custom dataset containing 15 sentences:
 
 ---
 
-## 📌 Model Accuracy
+
 ## Model Accuracy
 A small test dataset was used to check accuracy:
 
+A small test dataset was used to check accuracy:
+
 Model accuracy on test set: XX.XX % True labels: [...] Predicted labels: [...]
-@@ -91,15 +91,15 @@ Model accuracy on test set: XX.XX % True labels: [...] Predicted labels: [...]
 
 ---
 
-## 📌 Example Output
+
 ## Example Output
 
 Enter a sentence: I am happy today
@@ -70,21 +71,20 @@ Predicted Sentiment: positive Class probabilities: negative : 0.05 neutral  : 0.
 
 ---
 
-## 📌 How to Run
 ##  How to Run
 
 ### Install library
 
-@@ -111,7 +111,7 @@ python sentiment_analyzer.py
+
 
 ---
 
-## 📌 File Structure
+
 ## File Structure
 
 ai-sentiment-analyzer/ │ 
                        ├── sentiment_analyzer.ipynb 
-@@ -120,7 +120,12 @@ ai-sentiment-analyzer/ │
+
                        └── README.md
 
 ---
@@ -93,7 +93,7 @@ ai-sentiment-analyzer/ │
 <img width="583" height="190" alt="ai-sentiment-analyzer-test2" src="https://github.com/user-attachments/assets/0770a747-a030-4e37-9da4-20cd9fe14fe6" />
 <img width="583" height="190" alt="ai-sentiment-analyzer-test3" src="https://github.com/user-attachments/assets/d62d47ea-1b1c-4130-9067-ae9afaf3d7d8" />
 
-## 📌 Author
+
 
 ## Author
 **Kunal Pawar**  
