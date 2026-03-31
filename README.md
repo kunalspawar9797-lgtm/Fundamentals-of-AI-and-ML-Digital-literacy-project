@@ -36,7 +36,10 @@ This improved version includes:
 ## Dataset
 A custom dataset containing 15 sentences:
 
-- 5 Positive  
+- 5 Positive
+- 5 Negative
+- 5 Neutral
+
 
 
 ---
