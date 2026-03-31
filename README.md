@@ -4,18 +4,18 @@
 ## Overview
 This project is a medium-level **machine learning sentiment analyzer** made for the **Fundamentals of AI** practical.  
 It classifies sentences into three categories:
-• Positive
-• Negative
-• Neutral
+1 Positive
+2 Negative
+3 Neutral
 
 
 This improved version includes:
 
-1) Model accuracy calculation
-2) Probability scores for each class
-3) Loop-based user input
-4) Flowchart and architecture diagram
-5) Clean Jupyter Notebook implementation
+1 Model accuracy calculation
+2 Probability scores for each class
+3 Loop-based user input
+4 Flowchart and architecture diagram
+5 Clean Jupyter Notebook implementation
 
 
 
@@ -25,7 +25,7 @@ This improved version includes:
 ## Features (Updated)
 1 Machine learning–based sentiment classification  
 2 Uses **CountVectorizer (Bag of Words)**  
-• Uses **Multinomial Naive Bayes**  
+3. Uses **Multinomial Naive Bayes**  
 • Displays probabilities for all classes
 • Evaluates accuracy on a small test dataset
 • Easy, understandable logic for viva and external exam
